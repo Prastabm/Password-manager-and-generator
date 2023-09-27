@@ -6,7 +6,7 @@ It is connected to an Oracle Database that stores the password and the user can 
 This program also generates new passwords and stores them in the database.
 </p>
 
-<h3>Dependencies</h3>
+<h3>Requirements</h3>
 <p>In order to run the project successfully the following programs should be present in the system</p>
 <ol>
     <li>Python version 3.x</li>
